@@ -42,12 +42,40 @@ http://localhost:8000
 
 ## 👨‍🎓 Alunos participantes
 
-| Nome | Curso | Status |
-|------|-------|--------|
-| Ana Beatriz Silva | Engenharia da Computação | Enviado |
-| Carlos Eduardo Rocha | Sistemas de Informação | Enviado |
-| Júlia Martins | Ciência de Dados | Enviado |
-| Lucas Pereira | Administração | Pendente |
+- Adailton Francelino Da Silva Neto
+- Alysson Henrique Patrício Da Silva
+- Ana Brambilla Vanzella
+- Ana Lucia Bernabe Juvino
+- Caionã De Albuquerque Soares Marinho
+- Cauã Araujo Carneiro
+- Daniel Batista Borba Orengo
+- Edson Patrick Garcia
+- Felipe Camêlo Braz
+- Gabriel Candeia Dias
+- Gabriele Pinto Nóbrega De Lucena
+- Guilherme Mayr Almeida Breckenfeld
+- João Victor Sousa Lima De Araujo
+- Jose Urik De Souza Balduino
+- Júlia Barreto Adames
+- Kaua Casado Silva
+- Lucas Alberto Nogueira Luna Gomes
+- Lucas Bandeira Fernandes
+- Lucas Fernandes De Andrade
+- Lucas Pedro Jaud Endres
+- Luiz Henrique Sinezio Gomes
+- Marcelo Senna Germoglio
+- Maria Eduarda Maia Santos
+- Maria Victorya Sampaio Falcão Carmélio
+- Mateus Cauã Alves Souto
+- Matheus Augusto Cavalcante Maia
+- Pedro Daniel Gonçalves Gondim
+- Renato Ramos De Britto Neto
+- Ricardo Cesar Chagas De Oliveira Filho
+- Samuel Gomes Pereira Lapa
+- Victor Alves Cardoso Da Costa
+- Victor Pinheiro Borges
+- Vinícius Henrique Brasilino
+- Yuri Dos Santos Alves
 
 ## 📝 Observação
 
